@@ -7,4 +7,5 @@ It contains the following:
 - Basic Hello, World script
 - Sane npm scripts
 - `dotenv` support
+
 [Colby M. White]: https://github.com/colbywhite/
