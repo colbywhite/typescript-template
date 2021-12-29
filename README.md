@@ -1,4 +1,4 @@
-# create-typescript by [Colby M. White]
+# typescript-template by [Colby M. White]
 
 This is my preferred starting template for a vanilla typescript project
 with what I consider a sane set of starting settings.
